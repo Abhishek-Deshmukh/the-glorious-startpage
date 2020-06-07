@@ -16,12 +16,6 @@ let webSites = [
 		category: 'development'
 	},
 	{
-		site: 'Facebook',
-		icon: 'facebook',
-		url: 'https://facebook.com/',
-		category: 'social'
-	},
-	{
 		site: 'Gmail',
 		icon: 'gmail',
 		url: 'https://mail.google.com/',
@@ -275,11 +269,6 @@ let dockSites = [
 		site: 'Github',
 		icon: 'github',
 		url: 'https://github.com/'
-	},
-	{
-		site: 'Facebook',
-		icon: 'facebook',
-		url: 'https://facebook.com/'
 	},
 	{
 		site: 'Gmail',
